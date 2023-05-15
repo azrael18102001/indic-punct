@@ -1,3 +1,3 @@
-sudo apt-get update && sudo apt-get install -y libsndfile1 ffmpeg
+apt-get install -y libsndfile1 ffmpeg
 conda install libgcc gmp
 conda install -c conda-forge
