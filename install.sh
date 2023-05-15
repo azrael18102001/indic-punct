@@ -3,4 +3,4 @@ pip install Cython
 conda install libgcc gmp
 pip install nemo_toolkit['all']
 
-conda install -c conda-forge pynini==2.1.4
+conda install -c conda-forge
